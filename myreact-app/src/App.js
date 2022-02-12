@@ -1,4 +1,4 @@
-import One from "./Props/f to f/One"
+import One from "./Props/c to f/One"
 
 let App=()=>{
       return<>
