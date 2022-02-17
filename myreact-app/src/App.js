@@ -1,8 +1,8 @@
-import Login from "./Hooks/usestate/Login"
+ import Testing  from "./Testing/Testing"
 
 let App=()=>{
       return<>
-      <Login/>
+      <Testing/>
       </>
 }
 export default App
