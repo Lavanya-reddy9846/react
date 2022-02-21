@@ -1,8 +1,8 @@
- import Testing  from "./Testing/Testing"
+ import Cart  from "./cartex/Cart"
 
 let App=()=>{
       return<>
-      <Testing/>
+      <Cart/>
       </>
 }
 export default App
