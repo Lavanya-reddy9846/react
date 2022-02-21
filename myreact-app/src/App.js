@@ -1,8 +1,8 @@
- import Cart  from "./cartex/Cart"
+ import Counter  from ""
 
 let App=()=>{
       return<>
-      <Cart/>
+      <Counter/>
       </>
 }
 export default App
